@@ -7,3 +7,6 @@ Hello, I have made a movie recommendation system by different algorithms
 
 I have made the gui for only content based filtering.
 The source codes are attached in this repository
+
+The datasets are available in this link
+https://drive.google.com/drive/folders/1biKfcCmEnycLcK2MRAC-zN1gUkw5o2M1?usp=sharing 
